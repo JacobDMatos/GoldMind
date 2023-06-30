@@ -1,0 +1,4 @@
+zombie,3.5,3.5
+zombie,-3.5,3.5
+rockLine,2,0
+rockLine,-2,0

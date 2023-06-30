@@ -1,0 +1,4 @@
+skeleton,0,0
+boomer,0,4.1
+boomer,-2,4.1
+boomer,2,4.1

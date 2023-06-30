@@ -1,0 +1,12 @@
+rock,3.6,3
+rock,3.6,3.6
+rock,3,3.6
+rock,3.6,2.4
+rock,3,3
+rock,2.4,3.6
+rock,3.6,1.8
+rock,3,2.4
+rock,2.4,3
+rock,1.8,3.6
+spider,-2.5,-3.5
+spider,-3.5,-2.5

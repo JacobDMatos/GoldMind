@@ -1,0 +1,4 @@
+rockCluster,2,2
+rockCluster,-2,2
+rockCluster,-2,-2
+rockCluster,2,-2

@@ -1,0 +1,5 @@
+rockCluster,0,0
+rock,3.5,3.5
+rock,-3.5,3.5
+rock,-3.5,-3.5
+rock,3.5,-3.5

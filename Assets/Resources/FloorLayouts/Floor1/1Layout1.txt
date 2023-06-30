@@ -1,0 +1,3 @@
+rock,3,1
+zombie,3.6,3.6
+skeleton,-3.6,3.6

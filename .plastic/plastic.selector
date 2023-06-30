@@ -1,0 +1,4 @@
+repository "GoldMind"
+  path "/"
+    br "/main"
+    co "/main"

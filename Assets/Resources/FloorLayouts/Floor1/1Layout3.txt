@@ -1,0 +1,2 @@
+rockCluster,3,-1.7
+spider,-3,3

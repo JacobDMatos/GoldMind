@@ -1,0 +1,4 @@
+coin,3,3
+shopTreasure,-3,-3
+shopTreasure,3,-3
+shopBomb,-3,3
